@@ -1,0 +1,8 @@
+name = Entity advanced
+description = Provides advanced version of entity controllers.
+core = 7.x
+version = 7.x-1.0
+
+dependencies[] = entity
+
+files[] = includes/entity_advanced.controller.inc
